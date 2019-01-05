@@ -1,0 +1,2 @@
+# freebsd-dist
+FreeBSD releases
